@@ -1,4 +1,4 @@
-# Monitor de Clima com Arduino – Relatório Individual
+# Monitor de Clima com Arduino 
 
 Relatório individual de extensão sobre o projeto **Monitor de Clima com Arduino: protótipo de IoT para alerta de temperatura e umidade**, desenvolvido em grupo no Centro Universitário FACIMP Wyden (Imperatriz/MA). Este repositório reúne o relatório, o código, os diagramas e a simulação do protótipo.
 
